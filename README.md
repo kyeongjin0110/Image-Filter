@@ -5,7 +5,7 @@
 
 1. Press File in menu bar.
 2. And get image on my computer.
-3. how to apply image filter : 
+3. how to apply image filter: 
 
     if you want to apply decreasing hue, press Hue- button.
     if you want to apply increasing hue, press Hue+ button.
